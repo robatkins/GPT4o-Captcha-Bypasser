@@ -15,7 +15,7 @@ This project is a CLI tool for testing various types of captchas including puzzl
 
    ```sh
    git clone https://github.com/robatkins/GPT4o-Captcha-Bypasser
-   cd gpt4-captcha-bypass
+   cd GPT4o-Captcha-Bypasser
    ```
 
 2. Install the required Python packages:
